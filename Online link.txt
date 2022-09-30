@@ -9,6 +9,7 @@ https://trello.com/b/rKTFJUWn/brief
 ### Presentation
 
 https://www.canva.com/design/DAFCKPfJpmY/OWqdmILTBTg7hcmGUajOdg/edit?utm_content=DAFCKPfJpmY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+<<<<<<< HEAD
 
 #### Pizza restuarant version web
 
@@ -17,3 +18,5 @@ https://www.figma.com/file/gWBW0p9OjXdf4k2ifX3zpF/Pizza-restuarant-version-web?n
 ##### Pizza restuarant version mobile
 
 https://www.figma.com/file/aEj2sR7IG6ykn9FSM6DgyY/Pizza-Restaurant-Web-Design?node-id=0%3A1
+=======
+>>>>>>> 5c79025f709d69707fcaea8d1ce14d9148c305b0
